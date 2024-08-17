@@ -2,7 +2,7 @@
 
 ## Descrição
 
-A cifra de César é uma técnica antiga de criptografia que protege mensagens movendo cada letra do alfabeto por um número fixo de posições. Este projeto em Pascal implementa essa técnica de forma simples, permitindo aos usuários criptografar termo e descriptografar
+A cifra de César é uma técnica antiga de criptografia que protege mensagens movendo cada letra do alfabeto por um número fixo de posições. Este projeto em Pascal implementa essa técnica de forma simples, permitindo aos usuários criptografar termo e descriptografar.
 
 ## Funcionalidade
 
